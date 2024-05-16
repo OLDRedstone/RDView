@@ -224,7 +224,7 @@ Can be clicked.
 - `condition-both` Condition both.
 - `tag` Tag.
 
-<div class="RDView" style="--row:10;--column:8;">
+<div class="RDView" style="--row:7;--column:8;">
 	<div class="beat" style="--beat:1; --y:0; --tick:2; --interval:3; --delay: 0.5;">
 		<div class="freezeshot"></div>
 	</div>
@@ -401,7 +401,7 @@ If you need to add attributes to this element, initialize attributes with the sa
 Events can all add description boxes.  
 Hover over the event to display the description box contents.
 
-<div class="RDView" style="--row:4;--column:10;">
+<div class="RDView" style="--row:5;--column:10;">
 	<div class="event group" style="--group-width:2; --group-height:2; --group-y:1; --group-offset-beat:2; --group-offset-grayscale:50; --group-outline:#d8243378;">
 		<div class="event sounds" style="--y:1; --event-x:3;">
 			<div class="description"><br>Add the nurse voice event "Get" at the beginning of the loop rhythm pattern.</div>

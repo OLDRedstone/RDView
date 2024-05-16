@@ -123,13 +123,13 @@
 
 <div class="RDRooms">
 	<div class="room" style=" --index:1;">
-		<img src="./layer1.png" style="--position-x:0px; --position-y:0px;">
+		<img src="./images/layer1.png" style="--position-x:0px; --position-y:0px;">
 	</div>
 	<div class="room" style=" --index:2;">
-		<img src="./layer2.png" style="--position-x:20px; --position-y:20px; --angle:10;">
+		<img src="./images/layer2.png" style="--position-x:20px; --position-y:20px; --angle:10;">
 	</div>
 	<div class="room" style=" --index:3;">
-		<img src="./layer3.png" style="--position-x:300px; --position-y:120px; --angle:-40;">
+		<img src="./images/layer3.png" style="--position-x:300px; --position-y:120px; --angle:-40;">
 	</div>
 </div>
 
@@ -224,7 +224,7 @@
 - `condition-both` 条件-皆有。
 - `tag` 标签。
 
-<div class="RDView" style="--row:10;--column:8;">
+<div class="RDView" style="--row:7;--column:8;">
 	<div class="beat" style="--beat:1; --y:0; --tick:2; --interval:3; --delay: 0.5;">
 		<div class="freezeshot"></div>
 	</div>
@@ -401,7 +401,7 @@
 事件都可以添加描述框。  
 鼠标悬浮在事件上以展示描述框内容。
 
-<div class="RDView" style="--row:4;--column:10;">
+<div class="RDView" style="--row:5;--column:10;">
 	<div class="event group" style="--group-width:2; --group-height:2; --group-y:1; --group-offset-beat:2; --group-offset-grayscale:50; --group-outline:#d8243378;">
 		<div class="event sounds" style="--y:1; --event-x:3;">
 			<div class="description"><br>在循环节奏型的开始添加护士语音事件“Get”。</div>
