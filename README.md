@@ -23,4 +23,8 @@ Read the tutorial and examples in [this document](tutorial_en.md) to get started
 
 ![alt text](images/descriptions.png)
 
+在[此处](https://github.com/OLDRedstone/markdown-rdview-support)获取此项目的应用。
+
+You can get the applying of this project by clicking [here](https://github.com/OLDRedstone/markdown-rdview-support).
+
 ---
